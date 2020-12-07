@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    default_ruby (0.1.0)
+    ruby-template (0.1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -80,13 +80,13 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 2.1)
   debase (~> 0.2.4)
-  default_ruby!
   minitest (~> 5.0)
   rcodetools (~> 0.8.5)
   rspec-core (~> 3.10)
   rubocop (~> 1.5)
   rubocop-minitest (~> 0.10.1)
   ruby-debug-ide (~> 0.7.2)
+  ruby-template!
   steep (~> 0.37.0)
 
 BUNDLED WITH

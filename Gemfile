@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-# Specify your gem's dependencies in default_ruby.gemspec
+# Specify your gem's dependencies in ruby-template.gemspec
 gemspec
 
 # VSCode setup after Ruby,VSCode-Ruby, Ruby Test Explorer, Steep 

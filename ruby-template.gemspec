@@ -1,7 +1,7 @@
 require_relative 'lib/default_ruby/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'default_ruby'
+  spec.name          = 'ruby-template'
   spec.version       = DefaultRuby::VERSION
   spec.authors       = ['State your name']
   spec.email         = ['put@yours.email']

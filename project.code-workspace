@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"ruby.useLanguageServer": true,
+		"ruby.format": "rubocop",
+		"ruby.intellisense": "rubyLocate",
+		"ruby.codeCompletion": "rcodetools",
+		"ruby.lint": {
+			"rubocop": {
+				"useBundler": true
+			}
+		},
+		"ruby.useBundler": true,
+		"rubyTestExplorer.testFramework": "minitest",
+		"ruby.interpreter.commandPath": "/usr/local/opt/ruby/bin/ruby",
+		"ruby.pathToBundler": "bin/bundle",
+		"ruby.rctComplete.commandPath": "bin/rct-complete",
+		"rubyTestExplorer.minitestCommand": "bin/bundle exec rake",
+		"rubyTestExplorer.rspecCommand": "bin/bundle exec rspec",
+		"rubyTestExplorer.logpanel": true,
+	}
+}

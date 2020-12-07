@@ -1,0 +1,4 @@
+# FIXME: documentation
+module DefaultRuby
+  VERSION: String
+end
